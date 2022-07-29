@@ -1,16 +1,19 @@
-### Hi there 👋
+<a href="https://github.com/shrikgade/">
+  <h1 align="center"> Hi there! 👋 This is SHRIKANT GADE</h1>
+</a>
 
-<!--
-**shrikgade/shrikgade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub shrikgade](https://img.shields.io/github/followers/shrikgade?label=follow&style=social)](https://github.com/shrikgade)
+[![Linkedin: shrikant-gade](https://img.shields.io/badge/Shrikant%20Gade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrikant-gade/)](https://www.linkedin.com/in/shrikant-gade/)
+[![Medium](https://img.shields.io/badge/medium-shrikantgade-blue?style=flat&logo=appveyor&link=https://medium.com/@theshrikantgade)](https://medium.com/@theshrikantgade)
+[![Kaggle](https://img.shields.io/badge/kaggle-SHRIKANTGADE-blue?style=flat&logo=appveyor&link=https://www.kaggle.com/shrikantgade)](https://www.kaggle.com/shrikantgade)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on - *Data Science, Data Analytics & Machine Learning*
+
+- 🌱 I’m currently learning - *Deep learning, NLP & CV*
+
+- 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my undergraduate program* and am currently working on my Research Paper
+`
