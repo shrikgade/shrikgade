@@ -15,5 +15,5 @@
 
 - 🌱 I’m currently learning - *Deep learning, NLP & CV*
 
-- 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my undergraduate program* and am currently working on my Research Paper
+- 👯 I’ve recently worked on multiple Industrial relevant projects - *as part of my undergraduate program* and I am currently working on my Research Paper
 `
